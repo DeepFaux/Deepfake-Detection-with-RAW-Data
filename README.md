@@ -1,4 +1,4 @@
-Redrawing the Line Between Real and Fake: Enhancing Deepfake Detection with RAW Data![My Photo](https://github.com/ICCVsupplementary/ICCV_2023/blob/main/pipeline.png))
+Redrawing the Line Between Real and Fake: Enhancing Deepfake Detection with RAW Data![My Photo](pipeline.png)
 
 ## Requirements
 Before using the code and resources provided in this repository, ensure you have the following dependencies installed:
