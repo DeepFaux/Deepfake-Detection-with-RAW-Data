@@ -6,8 +6,6 @@ Before using the code and resources provided in this repository, ensure you have
 * OpenCV (cv2)
 * NumPy (numpy)
 * Pillow (PIL)
-* trimesh
-* pyrender
 
 
 ### Contact
