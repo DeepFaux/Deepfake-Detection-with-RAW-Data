@@ -68,7 +68,7 @@ CUDA_VISIBLE_DEVICES=* python src/train_raw_sbi.py \
 src/configs/raw_sbi/base.json \
 -n raw_sbi
 ```
-Top five checkpoints will be saved in `./output/` folder. As described in our paper, we use the latest one for evaluations.
+Top five checkpoints will be saved in `./output/` folder.
 
 
 # Test
