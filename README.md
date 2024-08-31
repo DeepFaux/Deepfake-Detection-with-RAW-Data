@@ -78,7 +78,6 @@ CUDA_VISIBLE_DEVICES=* python src/inference/inference_dataset.py \
 -w weights/FFraw.tar \
 -d CDF
 ```
-The result will be displayed.
 
 Using the provided pretrained model, our cross-dataset results are reproduced as follows:
 
