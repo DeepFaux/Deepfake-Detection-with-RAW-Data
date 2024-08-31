@@ -1,5 +1,6 @@
-# Detecting Deepfakes with Self-Blended Images
+# Redrawing the Line Between Real and Fake: Enhancing Deepfake Detection with RAW Data
 ![Overview](pipeline.png)  
+
 This repo includes the authors' PyTorch implementation for the following paper: 
 > [**Redrawing the Line Between Real and Fake: Enhancing Deepfake Detection with RAW Data**]
 
@@ -9,7 +10,7 @@ This repo includes the authors' PyTorch implementation for the following paper:
 * CUDA: 11.1
 * Docker: 20.10.8
 
-## Use requirement.txt to install required dependencies 
+## Use requirement.txt to install dependencies 
 
 # Setup
 ## 1. Dataset
@@ -92,7 +93,7 @@ If you find our work useful for your research, please consider citing our paper:
 
 # Acknowledgements
 Here are some great resources we benefit:
-[here](https://github.com/mapooon/SelfBlendedImages)
-[here](https://github.com/q935970314/AIM22-ReverseISP-MiAlgo)
+* https://github.com/mapooon/SelfBlendedImages
+* https://github.com/q935970314/AIM22-ReverseISP-MiAlgo
 
 # Contact
