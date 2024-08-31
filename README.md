@@ -9,8 +9,7 @@ This repo includes the authors' PyTorch implementation for the following paper:
 * GPU: NVIDIA A100
 * CUDA: 11.1
 * Docker: 20.10.8
-
-## Use requirement.txt to install dependencies 
+* Use requirement.txt to install dependencies 
 
 # Setup
 ## 1. Dataset
