@@ -88,11 +88,12 @@ FF-raw | 94.23% | 98.46 | 69.42
 
 
 # Citation
-If you find our work useful for your research, please consider citing our paper:
+If you have any questions, feedback, or inquiries related to this project, please feel free to reach out to us. You can find our contact information in the
+ToDo
 
 # Acknowledgements
 Here are some great resources we benefit:
 * https://github.com/mapooon/SelfBlendedImages
 * https://github.com/q935970314/AIM22-ReverseISP-MiAlgo
 
-# Contact
+Note: This repository is currently under construction, and we are actively working on adding more content. Please check back later for updates!
