@@ -93,5 +93,3 @@ If you have any questions, feedback, or inquiries related to this project, pleas
 Here are some great resources we benefit:
 * https://github.com/mapooon/SelfBlendedImages
 * https://github.com/q935970314/AIM22-ReverseISP-MiAlgo
-
-### Note: This repository is currently under construction, and we are actively working on adding more content. Please check back later for updates!
